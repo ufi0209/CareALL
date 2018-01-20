@@ -1,0 +1,7 @@
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.pdb

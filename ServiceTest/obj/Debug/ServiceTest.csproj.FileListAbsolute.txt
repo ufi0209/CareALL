@@ -1,0 +1,6 @@
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\ServiceTest\bin\Debug\ServiceTest.exe.config
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\ServiceTest\bin\Debug\ServiceTest.exe
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\ServiceTest\bin\Debug\ServiceTest.pdb
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\ServiceTest\obj\Debug\ServiceTest.exe
+c:\users\ufi0209\documents\visual studio 2013\Projects\DemoProject\ServiceTest\obj\Debug\ServiceTest.pdb
+C:\Users\ufi0209\Documents\Visual Studio 2013\Projects\DemoProject\ServiceTest\obj\Debug\ServiceTest.csprojResolveAssemblyReference.cache
